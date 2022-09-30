@@ -1,7 +1,7 @@
 # InfHMM:
 Infinit hidden Markov model
 The code interface is written in R, and for the sake of speed, most parts are written in C++. However, no prerequisite knowledge for both languages is required to run the code.
-The R file runInfHMM.R sources all needed functions to compile and run the code.
+The R file runInfHMM.R sources all needed functions and gives example how to compile and run the code.
 
 # Example: 
 ```
