@@ -3,6 +3,23 @@ Infinit hidden Markov model
 The code interface is written in R, and for the sake of speed, most parts are written in C++. However, no prerequisite knowledge for both languages is required to run the code.
 The R file runInfHMM.R sources all needed functions and gives example how to compile and run the code.
 
+This code is used and reviewed in the published paper: 
+```
+@article{FRIMANE2022331,
+title = {Infinite hidden Markov model for short-term solar irradiance forecasting},
+journal = {Solar Energy},
+volume = {244},
+pages = {331-342},
+year = {2022},
+issn = {0038-092X},
+doi = {https://doi.org/10.1016/j.solener.2022.08.041},
+url = {https://www.sciencedirect.com/science/article/pii/S0038092X22005916},
+author = {Âzeddine Frimane and Joakim Munkhammar and Dennis {van der Meer}},
+keywords = {Clear sky index, Probabilistic solar forecasting, Non-parametric Bayesian, -code}
+}
+```
+
+
 # Example: 
 ```
 # Clean the memory
